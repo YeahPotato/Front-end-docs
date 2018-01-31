@@ -454,7 +454,6 @@ article {
 * position 非 static
 * overflow 非 visible
 
-如希望使用更小副作用的清除浮动方法，参见 [A new micro clearfix hack](http://nicolasgallagher.com/micro-clearfix-hack/) 一文。
 
 另需注意，对已经触发 BFC 的元素不需要再进行 clearfix。
 
