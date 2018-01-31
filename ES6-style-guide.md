@@ -1,6 +1,5 @@
 
-# JavaScript 编码规范 - ESNext 补充篇（草案）
-
+# JavaScript 编码规范 - ES6
 
 
 
